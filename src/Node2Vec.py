@@ -56,7 +56,6 @@ class graph_creator:
         self.G = nx.from_pandas_edgelist(source_dest, source="Source",
             target="Dest", edge_attr="weight", create_using=nx.Graph)
         return self.G
-
 # COMMAND ----------
 
 def get_embeddings(G, organizations):
