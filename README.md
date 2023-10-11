@@ -1,9 +1,4 @@
-# Owl_AI
----
-![Cover](./public/Business-Automation.gif)
-<br></br>
-**Demonstration on Streamlit.**
-<br>https://pritish-sinha-owl-ai-app-gl3ydj.streamlitapp.com/</br>
+
 ## Features
 ---
  - Auto-ESG Scoring
